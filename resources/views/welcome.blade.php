@@ -78,7 +78,7 @@
     <section class="final-cta">
         <div class="cta-card">
             <h2>Ready to transform your classroom?</h2>
-            <p>Join Nayer Mohamed's EduAssign today and start managing assignments like a pro.</p>
+            <p>Join EduAssign today and start managing assignments like a pro.</p>
             <a href="{{ route('register') }}" class="btn-primary btn-lg">Join Now</a>
         </div>
     </section>
